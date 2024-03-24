@@ -49,6 +49,6 @@
 </a>
 <p style="font-size: 15px">Copy if you want: ojgabriel.88@gmail.com</p>
 
-<a href="www.linkedin.com/in/j-gabriel-ortiz" target="_blank">
+<a href="https://www.linkedin.com/in/j-gabriel-ortiz" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Gabriel O.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
